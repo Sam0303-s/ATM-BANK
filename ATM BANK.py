@@ -4,8 +4,8 @@ o1 = 1
 o2 = 2
 o3 = 3
 o4 = 4
-password = 3104
-Balance = 5000
+password = 1234
+Balance = 10000
 
 print("Please insert your card__ ")
 time.sleep(3)
